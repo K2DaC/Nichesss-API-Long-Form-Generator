@@ -1,0 +1,23 @@
+{{TOPIC}}
+
+[{{TOPIC}} | intro]
+
+1. {{OUTLINE_ITEM_1}}
+[ write about {{OUTLINE_ITEM_1}} ]
+
+2. {{OUTLINE_ITEM_2}}
+[ write about {{OUTLINE_ITEM_2}} ]
+
+3. {{OUTLINE_ITEM_3}}
+[ write about {{OUTLINE_ITEM_3}} ]
+
+4. {{OUTLINE_ITEM_4}}
+[ write about {{OUTLINE_ITEM_4}} ]
+
+5. {{OUTLINE_ITEM_5}}
+[ write about {{OUTLINE_ITEM_5}} ]
+
+6. {{OUTLINE_ITEM_6}}
+[ write about {{OUTLINE_ITEM_6}} ]
+
+[ {{OUTLINE_ITEM_1}}, {{OUTLINE_ITEM_2}}, {{OUTLINE_ITEM_3}}, {{OUTLINE_ITEM_4}}, {{OUTLINE_ITEM_5}}, and {{OUTLINE_ITEM_6}} | conclusion ]
